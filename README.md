@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diluni Tharusha</h1>
 <h3 align="center">A passionate full stack developer</h3>
----
+
 
 - 🌱 I’m currently learning **Angular**
 
